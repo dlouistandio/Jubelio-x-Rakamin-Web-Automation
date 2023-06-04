@@ -1,4 +1,4 @@
-# Sauce Demo Web Automation Testing With TestNG
+# Jubelio x Rakamin VIX Web Automation
 
 Creating test cases to implement in manual testing and automation testing. Build
 automation framework using Selenium and TestNG to automate the website and Cucumber to wrapping the test
