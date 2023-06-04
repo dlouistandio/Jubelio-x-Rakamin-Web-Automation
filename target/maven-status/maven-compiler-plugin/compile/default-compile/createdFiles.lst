@@ -1,0 +1,7 @@
+Context\TestContext.class
+PageObjects\PageObjectManager.class
+PageObjects\Login\LoginPage.class
+PageObjects\Home\HomePage.class
+PageObjects\BasePage.class
+Utils\DriverFactory.class
+PageObjects\Persediaan\PersediaanPage.class
