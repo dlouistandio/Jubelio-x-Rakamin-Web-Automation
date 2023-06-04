@@ -32,4 +32,4 @@ mvn clean test
 https://github.com/dlouistandio/Jubelio-x-Rakamin-Web-Automation/assets/91419177/334afc55-cc35-433d-83f4-5aefdfbb3006
 
 ## Test Result
-![image](https://github.com/dlouistandio/Jubelio-x-Rakamin-Web-Automation/assets/91419177/951fdb0f-0992-4a8f-81de-368ec6e88580)
+![image](https://github.com/dlouistandio/Jubelio-x-Rakamin-Web-Automation/assets/91419177/8a9fac2f-ae35-4e36-884b-f7a16542454f)
